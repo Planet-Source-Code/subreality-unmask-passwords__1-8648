@@ -1,0 +1,20 @@
+--------------------------------------------------------------------
+-  This sample code was downloaded from http://www.subreality.net  -
+--------------------------------------------------------------------
+
+==[ Project Information ]==-----------------------------------------
+Project		:	Unmask Passwords
+Level		:	Advanced
+
+Author		:	SubReality
+
+==[ Description ]==-------------------------------------------------
+This piece of code shows text in all open windows that have masked
+password boxes on them.
+For instance, your dialup network login box displays ********
+when you call the function in this module, it will display
+the actual password; for instance 'pass1243'
+
+==[ Updates / Bugs ]==----------------------------------------------
+Check http://www.subreality.net for the latest version of this code.
+Please report bugs to webmaster@subreality.net
